@@ -1,7 +1,7 @@
 # HTML-Project-2021
 Hi, and welcome to my first website! [Here's the link!](https://valensce.github.io/T1-HTML-Assignment/)
 
-In case you didn't know, I am Isabel Lifu, a ninth-grade student. I am highly professional with quality designs and authenticity in my work. This repository is part of my Digital Technology assignment, but feel free to take a look ( •̀ ω •́ )y\
+In case you didn't know, I am Valensce, a student in grade nine (2021). This repository is part of my Digital Technology assignment, but feel free to take a look ( •̀ ω •́ )y\
 
 
 Here's a quick summary of my website, which consists of seven separate HTML files and five CSS documents:
@@ -14,18 +14,12 @@ Do_aliens_exist.html - This page is one of my first pages I created, because I b
 
 Whats_the_HST.html - This page is a snapshot of my Space assignment for Science last year on the Hubble Space Telescope. It's a fascinating piece of technology that explores the universe and beyond. It suits well into my space theme and links to the alien page. Some highlights of this page are: The floating images on the left and right, the padding used to beautifully space out the images, and once again, the work itself. Everything on that page is written by me, meaning nothing has been copied and pasted from the internet. This has been proven by Turnitin last year, where it held a 0% similarity report. STUNNING! ( •̀ ω •́ )✧
 
-Calculus.html - This is my first page to include some of my most unique problem-solving techniques applied into differential calculus and integration. It comprises a brief overview of how I started my journey in mathematics, and then a series of examples of my work over the course of five weeks. There is no need to reference anything, because all the solutions provided are handwritten and solved by me in OneNote. Have fun with this page, and enjoy! ヾ(•ω•`)o
+Calculus.html - This is my first page to include some of my most unique problem-solving techniques applied into differential calculus and integration. It comprises a brief overview of how I started my journey in mathematics, and then a series of examples of my work over the course of five weeks. There is no need to reference anything, because all the solutions provided are handwritten and solved by me in OneNote. Have fun with this page, and enjoy! 
 
-About_the_author.html - This is where a introduce myself and my pet golden retriever Prado. After that section, there is a gallery of photos I've taken over the course of several years. I thoroughly hope you have as much fun and anticipation on this page as my other pages! ㄟ(≧◇≦)ㄏ
+About_the_author.html - This is where a introduce myself and my pet golden retriever Prado. After that section, there is a gallery of photos. I hopr you have as much fun and anticipation on this page as my other pages! ㄟ(≧◇≦)ㄏ
 
-Contact_Isabel.html - This is where I made a form to accept some specific details about the viewer, like their name, email address, etc., so that they can automatically email me. I also provided a list of my inboxes in case they have to contact me manually. Please don't hesitate to ask me questions about my site via my emails :)
+Contact_Isabel.html - This is where I made a form to accept some specific details about the viewer, like their name, email address, etc., so that they can easily communicate with me. This <s>was going to become</s> is most likely another scrapped idea.
 
-I hope you enjoy my website and have fun! (≧∀≦)ゞ
-
-Yours sincerely, 
-
-Isabel Lifu
-
-#DesignedToBeLoved♡
+If you are still reading, thanks! In case you wanted to see more projects, head over to my <a href="https://github.com/Valensce/School-projects">school-repo shelf</a>!
 
 
