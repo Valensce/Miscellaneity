@@ -3,8 +3,8 @@ Hi, and welcome to my first website! [Here's the link!](https://valensce.github.
 
 Being my very first project requiring code, I do realise that this repository could be improved in various aspects, whether it be efficiency, maintainability, or responsiveness. The objective of the task is to create any kind of website that can demonstrate the basic functionalities of HTML. Consequently, I have decided to name this project "Miscellaneity", ultimately emphasising the randomness of its substituents.
 <hr>
-<details><summary>Detailed summary</summary>
-The following summaries briefly outline the content of the pages you'll find:
+<details><summary>Detailed summary</summary><br>
+The following summaries briefly outline the content of the pages you'll find:<br><br>
 
 Index.html - This is the home page of my website, and it has boxed and hyperlinked images that take you to the destination described right below them. When you hover your pointer over the box, it changes colour - from light grey to black. This is my own unique design for a stylish homepage, where the links and titles are always in the navigation bar at the top. ༼ つ ◕_◕ ༽つ
 
