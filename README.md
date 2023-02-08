@@ -19,6 +19,6 @@ Calculus.html - This is my first page to include some of my most unique problem-
 About_the_author.html - This is an introduction of me and my pet golden retriever Prado. After that section, there is a gallery of photos. I hope you have as much fun and anticipation on this page as you do on my other pages! ㄟ(≧◇≦)ㄏ
 </details>
 <hr>
-If you would like to see more projects, head over to my <a href="https://github.com/Valensce/HighSchoolProjects">shelf</a> of high school projects!
+If you would like to see more projects, head over to my <a href="https://github.com/Valensce/HighSchool">shelf</a> of high school projects!
 
 
